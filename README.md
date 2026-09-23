@@ -92,22 +92,25 @@ My contribution focused on turning the idea into a usable visual experience thro
 
 ---
 
-## 06 / KEY SCREENS
+## 06 / INTERACTIVE PROTOTYPE
 
-Screens from the project will be added here.
+Explore the CrowdSense design in Figma:
 
-### Map / Crowd View
-Shows location information and crowd activity visually.
-
-### Location View
-Provides information about selected places and nearby areas.
-
-### Discovery Interface
-Helps users explore locations and understand crowd conditions before deciding where to go.
+[Open CrowdSense in Figma](https://www.figma.com/file/25dOrQupcDlExf72YTkUzI?node-id=0:1&locale=en&type=design)
 
 ---
 
-## 07 / OUTCOME
+## 07 / KEY SCREENS
+
+### Map / Crowd View
+
+![CrowdSense Map View](screenshots/map-view.png)
+
+The primary interfaces visualizes crowd activity and location information, helping users understand congestion and make berer movement decisions
+
+---
+
+## 08 / OUTCOME
 
 CrowdSense received **First Prize** in the UI/UX design project evaluation.
 
@@ -117,7 +120,7 @@ More importantly, the project helped me explore how creative interface design ca
 
 ---
 
-## 08 / TOOLS
+## 09 / TOOLS
 
 - Figma
 - UI/UX Design
@@ -128,7 +131,7 @@ More importantly, the project helped me explore how creative interface design ca
 
 ---
 
-## 09 / WHAT I LEARNED
+## 10 / WHAT I LEARNED
 
 This project helped me understand that a strong interface is not only about how something looks.
 
@@ -143,3 +146,5 @@ It also depends on:
 CrowdSense became an early example of the kind of work I enjoy:
 
 **using creative thinking to make technical ideas more understandable and useful.**
+
+
