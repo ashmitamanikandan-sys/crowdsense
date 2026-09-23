@@ -100,17 +100,7 @@ Explore the CrowdSense design in Figma:
 
 ---
 
-## 07 / KEY SCREENS
-
-### Map / Crowd View
-
-![CrowdSense Map View](screenshots/map-view.png)
-
-The primary interfaces visualizes crowd activity and location information, helping users understand congestion and make berer movement decisions
-
----
-
-## 08 / OUTCOME
+## 07 / OUTCOME
 
 CrowdSense received **First Prize** in the UI/UX design project evaluation.
 
@@ -120,7 +110,7 @@ More importantly, the project helped me explore how creative interface design ca
 
 ---
 
-## 09 / TOOLS
+## 08 / TOOLS
 
 - Figma
 - UI/UX Design
@@ -131,7 +121,7 @@ More importantly, the project helped me explore how creative interface design ca
 
 ---
 
-## 10 / WHAT I LEARNED
+## 09 / WHAT I LEARNED
 
 This project helped me understand that a strong interface is not only about how something looks.
 
